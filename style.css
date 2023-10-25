@@ -9,9 +9,9 @@ body {
 .header {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
     align-items: center;
     width: 400px;
+    justify-content: space-around;
     margin-bottom: 20px;
 
 }
